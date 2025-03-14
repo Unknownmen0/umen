@@ -6,6 +6,9 @@ void bubblesort(){
 void quicksort(){
 	//some code here
 }
+void mergesort(){
+	//some code here
+}
 int main(){
 	std::cout<<"Hello I am learning git and GitHub";
 return 0;
